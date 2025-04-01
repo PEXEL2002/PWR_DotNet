@@ -71,6 +71,8 @@ namespace ConsoleApp
             }
             Console.WriteLine("====================== Zadanie 3 ======================");
             Console.WriteLine("\t[ZAD 3] Realizowane w innym projekcie");
+
+            Console.ReadLine();
         }
     }
 }
