@@ -1,0 +1,15 @@
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\bin\Debug\net8.0\Console_App.exe
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\bin\Debug\net8.0\Console_App.deps.json
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\bin\Debug\net8.0\Console_App.runtimeconfig.json
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\bin\Debug\net8.0\Console_App.dll
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\bin\Debug\net8.0\Console_App.pdb
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\Console_App.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\Console_App.AssemblyInfo.cs
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\Console_App.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\Console_App.sourcelink.json
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\Console_App.dll
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\refint\Console_App.dll
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\Console_App.pdb
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\Console_App.genruntimeconfig.cache
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\Console_App\Console_App\obj\Debug\net8.0\ref\Console_App.dll

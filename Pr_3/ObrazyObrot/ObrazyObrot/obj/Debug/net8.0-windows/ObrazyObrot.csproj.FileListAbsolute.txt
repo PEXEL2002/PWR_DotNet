@@ -1,0 +1,17 @@
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.Form1.resources
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.csproj.GenerateResource.cache
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.AssemblyInfo.cs
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.sourcelink.json
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\bin\Debug\net8.0-windows\ObrazyObrot.exe
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\bin\Debug\net8.0-windows\ObrazyObrot.deps.json
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\bin\Debug\net8.0-windows\ObrazyObrot.runtimeconfig.json
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\bin\Debug\net8.0-windows\ObrazyObrot.dll
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\bin\Debug\net8.0-windows\ObrazyObrot.pdb
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.dll
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\refint\ObrazyObrot.dll
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.pdb
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ObrazyObrot.genruntimeconfig.cache
+C:\Users\barte\Desktop\Projekty DotNet\Pr_3\ObrazyObrot\ObrazyObrot\obj\Debug\net8.0-windows\ref\ObrazyObrot.dll
